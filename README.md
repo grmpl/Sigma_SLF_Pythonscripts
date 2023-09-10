@@ -9,6 +9,6 @@ In 2023 height data was not saved anymore by Strava without GPX-data, so I had t
 Combining data with real time to Sigma-data from non-GPS-computers is not possible, because the SLF-files record only the training data, not the real time. 
 Pause times will be saved as markers, but are not included in the time.
 
-I created a script to modify the time to real time.
+I created a script to modify the time to real time: SLF_IncludePauseTimes.py
 
 Maybe there will come further scripts. Feel free to contribute.
